@@ -3,7 +3,7 @@ This is a BIOS for the OpenComputers mod that is compliant with secure boot ([OE
 
 First download the secure-boot-* files and bios.lua.
 To do this in OpenComputers you need the wget program and an internet card.
-Links to the raw file data:
+Links to the raw file data:  
 https://raw.githubusercontent.com/oc-t35/secure-boot-lua-BIOS/main/bios.lua
 https://raw.githubusercontent.com/oc-t35/secure-boot-lua-BIOS/main/secure-boot-genkey.lua
 https://raw.githubusercontent.com/oc-t35/secure-boot-lua-BIOS/main/secure-boot-install.lua
